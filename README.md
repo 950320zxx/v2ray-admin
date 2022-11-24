@@ -1,13 +1,10 @@
 **# 2vray-admin**
 
-**## ✨ 特性**
+**## ✨ [功能](https://www.v2ray.tw)**
 
 - 每天更新免费节点
-
 - 支持一键订阅
-
 - 支持二维码扫描
-
-  [官网地址]: https://www.v2ray.tw	"github授权登录即可一键订阅节点"
-
-  
+- 多用户管理
+- 流量管理
+- [github 授权登录](https://www.v2ray.tw)
